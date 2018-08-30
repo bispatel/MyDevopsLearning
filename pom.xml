@@ -147,5 +147,9 @@
     </plugins>
   </build>
 	<distributionManagement>
-  </distributionManagement>
+  <repository>
+    <id>MavenTest</id>
+    <url>http://localhost:8081/nexus/content/repositories/MavenTest</url>
+  </repository>
+</distributionManagement>
 </project>
