@@ -1,4 +1,4 @@
-Set this internet options in Browser-Proxy setting
+﻿Set this internet options in Browser-Proxy setting
 www-proxy.us.oracle.com
 Port:80
 
@@ -69,3 +69,9 @@ https://nvie.com/files/Git-branching-model.pdf
  https://www.sonatype.com/download-oss-sonatype
  
  https://help.sonatype.com/repomanager2/download
+
+
+Prometheus for Windows: https://github.com/prometheus/prometheus/releases/download/v2.3.2/prometheus-2.3.2.windows-amd64.tar.gz
+ Grafana for windows:  https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana-5.2.3.windows-amd64.zip
+  WMI exporter: https://github.com/martinlindhe/wmi_exporter/releases/download/v0.4.3/wmi_exporter-0.4.3-386.msi
+
